@@ -12,6 +12,7 @@ const InputField = styled.input`
     ::placeholder {
        font-size: 20px;
        color:#000;
+
    }
 `
 
